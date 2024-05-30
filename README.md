@@ -1,6 +1,6 @@
 # Quadruple 2-Input AND Gates
 
-Example of a basic custom chip for [Wokwi](https://wokwi.com/).
+Custom chip for [Wokwi](https://wokwi.com/).
 
 The actual source code for the chip lives in [src/main.c](src/main.c), and the pins are described in [chip.json](chip.json).
 
